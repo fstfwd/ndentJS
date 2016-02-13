@@ -1,4 +1,3 @@
-**Live Demo:** http://alexei-testing.herokuapp.com/
 
 
 Current Features that workflowy doesn't have: 
